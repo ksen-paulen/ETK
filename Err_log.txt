@@ -1,0 +1,64 @@
+info@site-corp.ru|Сообщение с сайта|<html>
+<head>
+</head>
+
+<body bgcolor="#D9D9D9">
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr bgcolor="#BEBEBE">
+    <td>Заявка от: </td>
+    <td>Ксения</td>
+  </tr>
+  <tr>
+    <td>Телефон: </td>
+    <td>7584ао5834</td>
+  </tr>
+  <tr bgcolor="#B4B4B4">
+    <td>Проект: </td>
+    <td>Отправить заявку</td>
+  </tr>
+  <tr>
+    <td>Цель: </td>
+    <td></td>
+  </tr>
+  <tr bgcolor="#B4B4B4">
+    <td>Описание: </td>
+    <td>кпфпкф</td>
+  </tr>
+  </table>
+</body>
+</html>|MIME-Version: 1.0
+Content-type: text/html; charset=utf-8
+From: SiteCorp || On-line Order
+Reply-To: info@site-corp.ru
+info@site-corp.ru|Сообщение с сайта|<html>
+<head>
+</head>
+
+<body bgcolor="#D9D9D9">
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr bgcolor="#BEBEBE">
+    <td>Заявка от: </td>
+    <td>Ксения</td>
+  </tr>
+  <tr>
+    <td>Телефон: </td>
+    <td>7584ао5834</td>
+  </tr>
+  <tr bgcolor="#B4B4B4">
+    <td>Проект: </td>
+    <td>Отправить заявку</td>
+  </tr>
+  <tr>
+    <td>Цель: </td>
+    <td></td>
+  </tr>
+  <tr bgcolor="#B4B4B4">
+    <td>Описание: </td>
+    <td>кпфпкф</td>
+  </tr>
+  </table>
+</body>
+</html>|MIME-Version: 1.0
+Content-type: text/html; charset=utf-8
+From: SiteCorp || On-line Order
+Reply-To: info@site-corp.ru

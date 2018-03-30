@@ -1,0 +1,19 @@
+#container .boxes .box>div:first-child, #produce .box-produce>div:first-child{
+    display: table-cell;
+    height: 300px;
+    min-height:300px;
+    vertical-align: middle;
+}
+
+@media screen and (max-width: 600px) {
+    #container .boxes .box>div:first-child, #produce .box-produce>div:first-child{
+        display: table-cell;
+        height: 200px;
+        min-height:200px;
+        vertical-align: middle;
+    }
+    
+    .leftbar{
+        display:none;}
+    }
+}
